@@ -1,7 +1,7 @@
 # cc_talk_2021
 
 
-Helpful resources I came across or utilized in the process of creating my talk. Some may have been used directly, others are just tangentially related but might be a good read if you were interested in the talk. 
+Helpful resources I came across or utilized in the process of creating my [CactusCon 2021](https://www.cactuscon.com/2021-talks-and-workshops/linux-ir-windows-of-opportunity) talk. Some may have been used directly, others are just tangentially related but might be a good read if you were interested in the talk. 
 
 ***
 
