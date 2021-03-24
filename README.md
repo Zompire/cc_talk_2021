@@ -31,3 +31,7 @@ Helpful resources I came across or utilized in the process of creating my [Cactu
 ## Slides  
 
 - [Slides](https://github.com/Zompire/cc_talk_2021/blob/main/cc_ir_2021v2.pdf)
+
+## Recorded talk
+
+- [YouTube Link](https://youtu.be/wWgAeCbZa50)
